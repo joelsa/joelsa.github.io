@@ -3,4 +3,4 @@
 
 ## Index
 
-https://joelsa.github.io/papiercomputer/
+[Papiercomputer](https://joelsa.github.io/papiercomputer/)
